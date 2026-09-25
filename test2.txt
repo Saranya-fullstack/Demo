@@ -1,0 +1,3 @@
+git add -u
+git commit -m "Delete text3.txt"
+git push origin main
